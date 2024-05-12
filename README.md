@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gabrielaxy.com](https://gabrielaxy.com)
 
-- 😊 Support me here [0x5A6B842891032d702517a4E52ec38eE561063539](0x5A6B842891032d702517a4E52ec38eE561063539)
+- 😊 Support me here **0x5A6B842891032d702517a4E52ec38eE561063539**
 
 - 💬 Ask me about **Solidity and Zero Knowledge Cryptography**
 
