@@ -33,6 +33,7 @@
 <a href="https://instagram.com/gabrielaxy.eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielaxy.eth" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uc80y9y2gr_kr6zytlm29x3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc80y9y2gr_kr6zytlm29x3a" height="30" width="40" /></a>
 <a href="https://discord.gg/yv2445R8aV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yv2445R8aV" height="30" width="40" /></a>
+<a href="https://warpcast.com/gabrielaxy" target="blank"><img align="center" src="/warpcast.png" alt="gabrielaxyeth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
