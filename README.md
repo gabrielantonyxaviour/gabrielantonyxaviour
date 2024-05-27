@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Priv Cast](https://github.com/PrivCast)
 
-- 🤝 I’m looking for help with [Cal Cast](https://github.com/CalCast)
+- 🤝 I’m looking for help with [Cal Cast](https://github.com/CalCastOrg)
 
 - 👨‍💻 All of my projects are available at [https://gabrielaxy.com](https://gabrielaxy.com)
 
