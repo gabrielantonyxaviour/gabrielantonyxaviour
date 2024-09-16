@@ -23,7 +23,7 @@
 
 - 🗣️ Follow me in Farcaster [https://warpcast.com/gabrielaxy](https://warpcast.com/gabrielaxy)
 
-- ⚡ Fun fact **I won 33 hackathons in 2 years :)**
+- ⚡ Fun fact **I won 40 hackathons in 3 years :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
