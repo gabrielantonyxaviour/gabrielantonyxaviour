@@ -5,25 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/gabrielaxyeth" target="blank"><img src="https://img.shields.io/twitter/follow/gabrielaxyeth?logo=twitter&style=for-the-badge" alt="gabrielaxyeth" /></a> </p>
 
-- 🔭 I’m currently working on [Luffy Protocol](https://github.com/luffyprotocol)
-
-- 🌱 I’m currently learning **Rust and Circom**
-
-- 👯 I’m looking to collaborate on [Priv Cast](https://github.com/PrivCast)
-
-- 🤝 I’m looking for help with [Cal Cast](https://github.com/CalCastOrg)
-
-- 👨‍💻 All of my projects are available at [https://gabrielaxy.com](https://gabrielaxy.com)
-
-- 😊 Support me here **0x5A6B842891032d702517a4E52ec38eE561063539**
-
-- 💬 Ask me about **Solidity and Zero Knowledge Cryptography**
-
-- 📫 How to reach me **gabrielantony56@gmail.com**
-
-- 🗣️ Follow me in Farcaster [https://warpcast.com/gabrielaxy](https://warpcast.com/gabrielaxy)
-
-- ⚡ Fun fact **I won 60 hackathons in 4 years :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
